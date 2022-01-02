@@ -18,7 +18,15 @@ getJSON("/items.json").then(data => {
 
         let title = document.createElement('h2');
         title.innerText = item.name;
-        itemElement.append(title);        
+        itemElement.append(title);
+        
+        let details = document.createElement('ul');
+        Object.entries(item.details).forEach(detail => {
+            let detailElement = document.createElement('li');
+            detailElement.innerHTML = `<b>${detail[0]}:</b> ${detail[1]}`;
+            details.append(detailElement);
+        });
+        itemElement.append(details);
 
         fragment.append(itemElement);
     });
