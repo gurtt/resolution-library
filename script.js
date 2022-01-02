@@ -1,5 +1,14 @@
 "use strict";
 
+const getJSON = async url => {
+    const response = await fetch(url);
+    if (!response.ok)
+        throw new Error(response.statusText);
+
+    const data = response.json();
+    return data;
+}
+
 function search() {
     let items = document.getElementById("items").getElementsByClassName("item");
 
