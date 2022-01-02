@@ -9,6 +9,25 @@ const getJSON = async url => {
     return data;
 }
 
+getJSON("/items.json").then(data => {
+    let fragment = new DocumentFragment;
+
+    data.forEach(item => {
+        let itemElement = document.createElement('li');
+        itemElement.classList.add("item");
+
+        fragment.append(itemElement);
+    });
+    document.getElementById("items").append(fragment);
+
+    search()
+    document.getElementById("loader").remove();
+
+}).catch(error => {
+    console.error(error);
+    document.getElementById("loader").innerText = "Something went wrong."
+});
+
 function search() {
     let items = document.getElementById("items").getElementsByClassName("item");
 
