@@ -16,6 +16,10 @@ getJSON("/items.json").then(data => {
         let itemElement = document.createElement('li');
         itemElement.classList.add("item");
 
+        let title = document.createElement('h2');
+        title.innerText = item.name;
+        itemElement.append(title);        
+
         fragment.append(itemElement);
     });
     document.getElementById("items").append(fragment);
