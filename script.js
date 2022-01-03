@@ -28,6 +28,10 @@ getJSON("/items.json").then(data => {
         });
         itemElement.append(details);
 
+        let source = document.createElement('div');
+        source.innerHTML = "source: " + item.source.replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank">$1</a>');
+        itemElement.append(source);
+
         fragment.append(itemElement);
     });
     document.getElementById("items").append(fragment);
