@@ -1,3 +1,22 @@
+:root {
+    --accent: var(--green-bright);
+    --bg: var(--lighter);
+    --bg-surface: var(--lightest);
+    --dark: hsl(0, 0%, 23%);
+    --darker: hsl(0, 0%, 5%);
+    --darkest: hsl(0, 0%, 2%);
+    --error: var(--pink-bright);
+    --fg: var(--dark);
+    --fg-secondary: var(--light);
+    --green-bright: hsl(143, 90%, 38%);
+    --green-dull: hsl(143, 54%, 37%);
+    --light: hsl(0, 0%, 91%);
+    --lighter: hsl(0, 0%, 98%);
+    --lightest: hsl(0, 0%, 100%);
+    --pink-bright: hsl(334, 65%, 36%);
+    --pink-dull: hsl(334, 38%, 40%);
+}
+
 body {
     background-color: var(--bg);
     color: var(--fg);
