@@ -96,3 +96,14 @@ a:hover {
     background: var(--accent);
     color: var(--bg);
 }
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --accent: var(--green-dull);
+        --bg: var(--darkest);
+        --bg-surface: var(--darker);
+        --error: var(--pink-dull);
+        --fg: var(--lighter);
+        --fg-secondary: var(--dark);
+    }
+}
