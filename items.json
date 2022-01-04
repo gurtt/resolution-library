@@ -1,0 +1,18 @@
+[
+    {
+        "name": "discord server banner",
+        "details": {
+            "minimum": "960 × 540",
+            "recommended": "1920 × 1080"
+        },
+        "source": "https://support.discord.com/hc/en-us/articles/360028716472-Server-Banners"
+    },
+    {
+        "name": "discord profile banner",
+        "details": {
+            "minimum": "600 × 240",
+            "maximum": "10 MB"
+        },
+        "source": "https://support.discord.com/hc/en-us/articles/4403147417623-Custom-Profiles"
+    }
+]
