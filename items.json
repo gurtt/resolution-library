@@ -41,5 +41,19 @@
             "maximum": "30 MB"
         },
         "source": "https://facebook.com/business/ads-guide/carousel"
+    },
+    {
+        "name": "instagram feed",
+        "details": {
+            "recommended": "1080 × 1350"
+        },
+        "source": "https://facebook.com/business/help/469767027114079"
+    },
+    {
+        "name": "instagram stories",
+        "details": {
+            "recommended": "1080 × 1920"
+        },
+        "source": "https://facebook.com/business/help/469767027114079"
     }
 ]
