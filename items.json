@@ -14,5 +14,32 @@
             "maximum": "10 MB"
         },
         "source": "https://support.discord.com/hc/en-us/articles/4403147417623-Custom-Profiles"
+    },
+    {
+        "name": "facebook feed image",
+        "details": {
+            "minimum": "600 × 600",
+            "recommended": "at least 1080 × 1080",
+            "maximum": "30 MB"
+        },
+        "source": "https://facebook.com/business/ads-guide/image"
+    },
+    {
+        "name": "facebook feed video",
+        "details": {
+            "minimum": "120 × 120",
+            "recommended": "at least 1080 × 1080",
+            "maximum": "4 GB"
+        },
+        "source": "https://facebook.com/business/ads-guide/video"
+    },
+    {
+        "name": "facebook ad carousel",
+        "details": {
+            "minimum": "120 × 120",
+            "recommended": "at least 1080 × 1080",
+            "maximum": "30 MB"
+        },
+        "source": "https://facebook.com/business/ads-guide/carousel"
     }
 ]
