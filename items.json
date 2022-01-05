@@ -127,5 +127,13 @@
             "maximum": "5 MB on mobile, 15 MB on web"
         },
         "source": "https://help.twitter.com/en/using-twitter/tweeting-gifs-and-pictures"
+    },
+    {
+        "name": "gravatar",
+        "details": {
+            "minimum": "1 × 1",
+            "maximum": "2048 × 2048"
+        },
+        "source": "https://gravatar.com/site/implement/images/"
     }
 ]
