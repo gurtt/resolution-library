@@ -55,5 +55,26 @@
             "recommended": "1080 × 1920"
         },
         "source": "https://facebook.com/business/help/469767027114079"
+    },
+    {
+        "name": "messenger stories",
+        "details": {
+            "recommended": "1080 × 1920"
+        },
+        "source": "https://facebook.com/business/help/469767027114079"
+    },
+    {
+        "name": "messenger inbox",
+        "details": {
+            "recommended": "1200 × 1200"
+        },
+        "source": "https://facebook.com/business/help/469767027114079"
+    },
+    {
+        "name": "messenger sponsored message",
+        "details": {
+            "recommended": "1200 × 628"
+        },
+        "source": "https://facebook.com/business/help/469767027114079"
     }
 ]
