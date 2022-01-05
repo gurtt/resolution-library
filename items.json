@@ -135,5 +135,76 @@
             "maximum": "2048 × 2048"
         },
         "source": "https://gravatar.com/site/implement/images/"
+    },
+    {
+        "name": "snapchat image",
+        "details": {
+            "required": "1080 × 1920",
+            "maximum": "5 MB"
+        },
+        "source": "https://businesshelp.snapchat.com/s/article/top-snap-specs"
+    },
+    {
+        "name": "snapchat video",
+        "details": {
+            "required": "1080 × 1920",
+            "maximum": "1 GB"
+        },
+        "source": "https://businesshelp.snapchat.com/s/article/top-snap-specs"
+    },
+    {
+        "name": "snapchat story ad",
+        "details": {
+            "required": "360 × 600"
+        },
+        "source": "https://businesshelp.snapchat.com/s/article/story-ad-specs"
+    },
+    {
+        "name": "snapchat story logo",
+        "details": {
+            "required": "993 × 284",
+            "maximum": "2 MB"
+        },
+        "source": "https://businesshelp.snapchat.com/s/article/story-ad-specs"
+    },
+    {
+        "name": "snapchat geofilter ad",
+        "details": {
+            "required": "1080 × 2340",
+            "maximum": "300 KB"
+        },
+        "source": "https://businesshelp.snapchat.com/s/article/geofilter-specs"
+    },
+    {
+        "name": "snapchat collection ad",
+        "details": {
+            "minimum": "160 × 160",
+            "maximum": "2 MB"
+        },
+        "source": "https://businesshelp.snapchat.com/s/article/collection-ad-specs"
+    },
+    {
+        "name": "snapchat commercial",
+        "details": {
+            "required": "1080 × 1920",
+            "maximum": "1 GB"
+        },
+        "source": "https://businesshelp.snapchat.com/s/article/commercial-specs"
+    },
+    {
+        "name": "snapchat app install logo",
+        "details": {
+            "minimum": "200 × 200",
+            "maximum": "2000 × 2000"
+        },
+        "source": "https://businesshelp.snapchat.com/s/article/specs-app-install"
+    },
+    {
+        "name": "snapchat long form video ad",
+        "details": {
+            "minimum": "1080 wide",
+            "maximum": "1 GB"
+        },
+        "source": "https://businesshelp.snapchat.com/s/article/long-form-specs"
     }
 ]
