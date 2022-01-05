@@ -76,5 +76,20 @@
             "recommended": "1200 × 628"
         },
         "source": "https://facebook.com/business/help/469767027114079"
+    },
+    {
+        "name": "facebook audience network",
+        "details": {
+            "recommended": "398 × 208",
+            "note": "for images with a link, 1200 x 628"
+        },
+        "source": "https://facebook.com/business/help/469767027114079"
+    },
+    {
+        "name": "facebook stories",
+        "details": {
+            "recommended": "1080 × 1920"
+        },
+        "source": "https://facebook.com/business/help/469767027114079"
     }
 ]
