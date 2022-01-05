@@ -91,5 +91,41 @@
             "recommended": "1080 × 1920"
         },
         "source": "https://facebook.com/business/help/469767027114079"
+    },
+    {
+        "name": "twitter header photo (banner)",
+        "details": {
+            "recommended": "1500 × 500"
+        },
+        "source": "https://help.twitter.com/en/managing-your-account/how-to-customize-your-profile"
+    },
+    {
+        "name": "twitter profile photo",
+        "details": {
+            "recommended": "400 × 400"
+        },
+        "source": "https://help.twitter.com/en/managing-your-account/how-to-customize-your-profile"
+    },
+    {
+        "name": "twitter video",
+        "details": {
+            "minimum": "32 × 32",
+            "maximum": "1920 × 1200 @ 40 fps @ 25 Mbps"
+        },
+        "source": "https://help.twitter.com/en/using-twitter/twitter-videos"
+    },
+    {
+        "name": "twitter image",
+        "details": {
+            "maximum": "5 MB"
+        },
+        "source": "https://help.twitter.com/en/using-twitter/tweeting-gifs-and-pictures"
+    },
+    {
+        "name": "twitter GIF",
+        "details": {
+            "maximum": "5 MB on mobile, 15 MB on web"
+        },
+        "source": "https://help.twitter.com/en/using-twitter/tweeting-gifs-and-pictures"
     }
 ]
