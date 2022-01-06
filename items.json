@@ -336,5 +336,37 @@
             "maximum": "3 MB"
         },
         "source": "https://advertising.reddithelp.com/categories/campaign-setup/reddit-ad-unit-specifications"
+    },
+    {
+        "name": "youtube profile picture",
+        "details": {
+            "recommended": "800 × 800"
+        },
+        "source": "https://support.google.com/youtube/answer/2972003"
+    },
+    {
+        "name": "youtube banner",
+        "details": {
+            "minimum": "2048 × 1152",
+            "maximum": "6 MB"
+        },
+        "source": "https://support.google.com/youtube/answer/2972003"
+    },
+    {
+        "name": "youtube video watermark",
+        "details": {
+            "minimum": "150 × 150",
+            "maximum": "1 MB"
+        },
+        "source": "https://support.google.com/youtube/answer/2972003"
+    },
+    {
+        "name": "youtube video thumbnail",
+        "details": {
+            "minimum": "640 wide",
+            "recommended": "1280 × 720",
+            "maximum": "2 MB"
+        },
+        "source": "https://support.google.com/youtube/answer/72431"
     }
 ]
