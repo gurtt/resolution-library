@@ -206,5 +206,36 @@
             "maximum": "1 GB"
         },
         "source": "https://businesshelp.snapchat.com/s/article/long-form-specs"
+    },
+    {
+        "name": "spotify artist header",
+        "details": {
+            "minimum": "2660 × 1140",
+            "maximum": "20 MB"
+        },
+        "source": "https://artists.spotify.com/en/help/article/artist-image-guidelines"
+    },
+    {
+        "name": "spotify avatar",
+        "details": {
+            "minimum": "750 × 750",
+            "maximum": "20 MB"
+        },
+        "source": "https://artists.spotify.com/help/article/artist-image-guidelines"
+    },
+    {
+        "name": "spotify canvas",
+        "details": {
+            "minimum": "750 tall",
+            "maximum": "1080 tall"
+        },
+        "source": "https://artists.spotify.com/help/article/canvas-guidelines"
+    },
+    {
+        "name": "spotify cover art",
+        "details": {
+            "minimum": "640 × 640"
+        },
+        "source": "https://artists.spotify.com/help/article/cover-art-requirements"
     }
 ]
