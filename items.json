@@ -244,5 +244,97 @@
             "maximum": "6144 on longest side"
         },
         "source": "https://www.flickr.com/help/forum/72157711364062311"
+    },
+    {
+        "name": "reddit subreddit icon",
+        "details": {
+            "required": "256 × 256",
+            "maximum": "64 KB"
+        },
+        "source": "https://mods.reddithelp.com/hc/articles/360008805651-Name-icon"
+    },
+    {
+        "name": "reddit subreddit banner",
+        "details": {
+            "required": "64, 128, or 192 tall",
+            "recommended": "4000 wide",
+            "maximum": "5 MB"
+        },
+        "source": "https://mods.reddithelp.com/hc/articles/360010112892-Banner"
+    },
+    {
+        "name": "reddit subreddit mobile banner",
+        "details": {
+            "required": "1600 × 480"
+        },
+        "source": "https://mods.reddithelp.com/hc/articles/360010112892-Banner"
+    },
+    {
+        "name": "reddit takeover link card",
+        "details": {
+            "required": "1200 × 628",
+            "maximum": "3 MB"
+        },
+        "source": "https://advertising.reddithelp.com/categories/campaign-setup/reddit-ad-unit-specifications"
+    },
+    {
+        "name": "reddit takeover link thumbnail",
+        "details": {
+            "required": "400 × 300",
+            "maximum": "500 KB"
+        },
+        "source": "https://advertising.reddithelp.com/categories/campaign-setup/reddit-ad-unit-specifications"
+    },
+    {
+        "name": "reddit takeover top banner",
+        "details": {
+            "required": "300 × 600 or 300 × 250"
+        },
+        "source": "https://advertising.reddithelp.com/categories/campaign-setup/reddit-ad-unit-specifications"
+    },
+    {
+        "name": "reddit takeover sticky banner",
+        "details": {
+            "required": "300 × 250"
+        },
+        "source": "https://advertising.reddithelp.com/categories/campaign-setup/reddit-ad-unit-specifications"
+    },
+    {
+        "name": "reddit trending unit mobile card",
+        "details": {
+            "required": "219 × 96"
+        },
+        "source": "https://advertising.reddithelp.com/categories/campaign-setup/reddit-ad-unit-specifications"
+    },
+    {
+        "name": "reddit trending unit mobile card thumbnail",
+        "details": {
+            "required": "105 × 105",
+            "maximum": "1 MB"
+        },
+        "source": "https://advertising.reddithelp.com/categories/campaign-setup/reddit-ad-unit-specifications"
+    },
+    {
+        "name": "reddit trending unit desktop card",
+        "details": {
+            "required": "237 × 178"
+        },
+        "source": "https://advertising.reddithelp.com/categories/campaign-setup/reddit-ad-unit-specifications"
+    },
+    {
+        "name": "reddit trending landing page thumbnail",
+        "details": {
+            "required": "400 × 300",
+            "maximum": "500 KB"
+        },
+        "source": "https://advertising.reddithelp.com/categories/campaign-setup/reddit-ad-unit-specifications"
+    },
+    {
+        "name": "reddit trending landing page creative",
+        "details": {
+            "required": "1200 × 628",
+            "maximum": "3 MB"
+        },
+        "source": "https://advertising.reddithelp.com/categories/campaign-setup/reddit-ad-unit-specifications"
     }
 ]
