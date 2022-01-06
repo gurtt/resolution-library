@@ -237,5 +237,12 @@
             "minimum": "640 × 640"
         },
         "source": "https://artists.spotify.com/help/article/cover-art-requirements"
+    },
+    {
+        "name": "flickr",
+        "details": {
+            "maximum": "6144 on longest side"
+        },
+        "source": "https://www.flickr.com/help/forum/72157711364062311"
     }
 ]
