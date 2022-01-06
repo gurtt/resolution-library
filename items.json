@@ -368,5 +368,19 @@
             "maximum": "2 MB"
         },
         "source": "https://support.google.com/youtube/answer/72431"
+    },
+    {
+        "name": "vimeo profile picture",
+        "details": {
+            "recommended": "600 × 600"
+        },
+        "source": "https://vimeo.zendesk.com/hc/articles/224969888-Manage-your-Vimeo-profile"
+    },
+    {
+        "name": "vimeo video thumbnail",
+        "details": {
+            "maximum": "9600 × 5400"
+        },
+        "source": "https://vimeo.zendesk.com/hc/articles/224818047-Video-settings-overview"
     }
 ]
