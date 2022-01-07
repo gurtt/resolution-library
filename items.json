@@ -390,5 +390,13 @@
             "maximum": "2048 × 3072 @ 20 MB"
         },
         "source": "https://tumblr.zendesk.com/hc/articles/231537848-Image-GIF-troubleshooting"
+    },
+    {
+        "name": "google my business photo",
+        "details": {
+            "minimum": "250 × 250",
+            "recommended": "720 × 720"
+        },
+        "source": "https://support.google.com/business/answer/6103862"
     }
 ]
