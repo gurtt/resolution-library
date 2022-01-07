@@ -382,5 +382,13 @@
             "maximum": "9600 × 5400"
         },
         "source": "https://vimeo.zendesk.com/hc/articles/224818047-Video-settings-overview"
+    },
+    {
+        "name": "tumblr post",
+        "details": {
+            "recommended": "540 × 810",
+            "maximum": "2048 × 3072 @ 20 MB"
+        },
+        "source": "https://tumblr.zendesk.com/hc/articles/231537848-Image-GIF-troubleshooting"
     }
 ]
