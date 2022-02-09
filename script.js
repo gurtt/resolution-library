@@ -9,7 +9,7 @@ const getJSON = async url => {
     return data;
 }
 
-getJSON("/items.json").then(data => {
+getJSON("./items.json").then(data => {
     let fragment = new DocumentFragment;
 
     data.forEach(item => {
